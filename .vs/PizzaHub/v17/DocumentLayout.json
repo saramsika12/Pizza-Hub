@@ -1,0 +1,1737 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVCPractice\\Saram\\PizzaHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\configuration\\configuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\configuration\\configuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\configuration\\configurerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\configuration\\configurerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\shared\\_pizzamenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\shared\\_pizzamenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\account\\unauthorize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\account\\unauthorize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\account\\logoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\account\\logoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\viewcomponents\\pizzamenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\viewcomponents\\pizzamenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\interfaces\\iuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\interfaces\\iuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\interfaces\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\interfaces\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\helpers\\useraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\helpers\\useraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\helpers\\tempdataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\helpers\\tempdataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\helpers\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\helpers\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\helpers\\baseviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\helpers\\baseviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\user\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\user\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\implementations\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\implementations\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\interfaces\\icatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\interfaces\\icatalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\implementations\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\implementations\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.services\\configuration\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F638B2AB-7B15-4F72-9CE0-C977E238D529}|PizzaHub.Services\\PizzaHub.Services.csproj|solutionrelative:pizzahub.services\\configuration\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\migrations\\20240901153604_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\migrations\\20240901153604_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\migrations\\20241126144606_addaddressfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\migrations\\20241126144606_addaddressfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\implementations\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\implementations\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.repositories\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E409444D-A43C-45E4-9B98-1854A90DB4B2}|PizzaHub.Repositories\\PizzaHub.Repositories.csproj|solutionrelative:pizzahub.repositories\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.webui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8C22D6B2-6F39-4AA9-9F5E-7735CCA3A102}|PizzaHub.WebUI\\PizzaHub.WebUI.csproj|solutionrelative:pizzahub.webui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|d:\\mvcpractice\\saram\\pizzahub\\pizzahub.entities\\pizzahub.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42DC7DE5-F8E1-44B6-B214-5D72ADA1C2F4}|PizzaHub.Entities\\PizzaHub.Entities.csproj|solutionrelative:pizzahub.entities\\pizzahub.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Role.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\Role.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Role.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:36:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\User.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\User.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\User.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:37:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigureRepositories.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Configuration\\ConfigureRepositories.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Configuration\\ConfigureRepositories.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Configuration\\ConfigureRepositories.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Configuration\\ConfigureRepositories.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:15:49.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigureDependencies.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Configuration\\ConfigureDependencies.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Configuration\\ConfigureDependencies.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Configuration\\ConfigureDependencies.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Configuration\\ConfigureDependencies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:01:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:03:00.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:30:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Interfaces\\ICartService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Interfaces\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:13:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\CartService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Implementations\\CartService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\CartService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Implementations\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:40:48.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:31:42.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\Payment.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Payment.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:35:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\OrderItem.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\OrderItem.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:21:15.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Order.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\Order.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Order.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:21:11.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\ItemType.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\ItemType.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\ItemType.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\ItemType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:21:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Item.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\Item.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Item.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:20:11.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Category.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\Category.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Category.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:40:34.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\CartItem.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\CartItem.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:40:19.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\Cart.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Cart.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:39:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Address.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\Address.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\Address.cs",
+              "RelativeToolTip": "PizzaHub.Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:17:17.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Startup.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Startup.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Startup.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Startup.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:55:04.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PizzaHub.WebUI\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-22T04:53:43.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Program.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Program.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:01:02.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\appsettings.json",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\appsettings.json",
+              "RelativeToolTip": "PizzaHub.WebUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T02:55:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T04:53:36.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:29:19.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T16:11:34.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T03:06:55.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_PublicLayout.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_PublicLayout.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Shared\\_PublicLayout.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_PublicLayout.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Shared\\_PublicLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:07:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_PizzaMenu.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_PizzaMenu.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Shared\\_PizzaMenu.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_PizzaMenu.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Shared\\_PizzaMenu.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T06:20:34.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:05:02.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:20:43.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:23:20.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T06:53:29.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:20:42.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Cart\\CheckOut.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Cart\\CheckOut.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T03:34:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Unauthorize.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\Unauthorize.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Account\\Unauthorize.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\Unauthorize.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Account\\Unauthorize.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:44:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T03:46:40.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T18:37:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:44:24.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T12:19:29.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LogOutComplete.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\LogOutComplete.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Account\\LogOutComplete.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\LogOutComplete.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Account\\LogOutComplete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:44:20.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:44:15.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PizzaMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\ViewComponents\\PizzaMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\ViewComponents\\PizzaMenuViewComponent.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\ViewComponents\\PizzaMenuViewComponent.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\ViewComponents\\PizzaMenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T05:31:49.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Models\\UserModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\UserModel.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:03:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Models\\ResetPasswordModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\ResetPasswordModel.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Models\\ResetPasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:18:00.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Models\\PaymentModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\PaymentModel.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Models\\PaymentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:38:06.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:48:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Models\\ItemModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\ItemModel.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Models\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:17:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:16:41.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IFileHelper.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Interfaces\\IFileHelper.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Interfaces\\IFileHelper.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Interfaces\\IFileHelper.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Interfaces\\IFileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:53:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserAccessor.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\UserAccessor.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Helpers\\UserAccessor.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\UserAccessor.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Helpers\\UserAccessor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:03:26.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserAccessor.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Interfaces\\IUserAccessor.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Interfaces\\IUserAccessor.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Interfaces\\IUserAccessor.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Interfaces\\IUserAccessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:03:32.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TempDataExtension.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\TempDataExtension.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Helpers\\TempDataExtension.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\TempDataExtension.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Helpers\\TempDataExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:34:58.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Helpers\\FileHelper.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:15:11.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CustomAuthorize.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\CustomAuthorize.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Helpers\\CustomAuthorize.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\CustomAuthorize.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Helpers\\CustomAuthorize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:03:09.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaseViewPage.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\BaseViewPage.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Helpers\\BaseViewPage.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Helpers\\BaseViewPage.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Helpers\\BaseViewPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:03:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:37:17.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:34:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:12:23.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:11:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:11:46.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:58:59.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:10:57.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T06:33:29.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:59:13.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\User\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\User\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\User\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:10:42.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:09:46.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T22:39:12.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T22:39:14.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:09:30.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:41:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Create.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Create.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:41:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T10:19:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T22:38:25.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:23:34.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:07:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "cart.js",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\js\\cart.js",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\wwwroot\\js\\cart.js",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\js\\cart.js",
+              "RelativeToolTip": "PizzaHub.WebUI\\wwwroot\\js\\cart.js",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAF4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-01T07:00:18.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PizzaHub.WebUI\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-09T04:09:51.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PizzaHub.WebUI\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAALIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-17T19:27:41.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "PizzaHub.WebUI\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:49:04.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Implementations\\AuthenticationService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\AuthenticationService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Implementations\\AuthenticationService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:16:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:16:45.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CatalogService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\CatalogService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Implementations\\CatalogService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\CatalogService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Implementations\\CatalogService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:16:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ICatalogService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\ICatalogService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Interfaces\\ICatalogService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\ICatalogService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Interfaces\\ICatalogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:45:53.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Implementations\\PaymentService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Implementations\\PaymentService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Implementations\\PaymentService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:34:27.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:29:24.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "PasswordResetService.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Configuration\\PasswordResetService.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Services\\Configuration\\PasswordResetService.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Services\\Configuration\\PasswordResetService.cs",
+              "RelativeToolTip": "PizzaHub.Services\\Configuration\\PasswordResetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:08:05.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\AppDbContext.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\AppDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:52:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Models\\ItemModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Models\\ItemModel.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Models\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:26:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Models\\CartModel.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Models\\CartModel.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Models\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:21:29.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240901153604_initial.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Migrations\\20240901153604_initial.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Migrations\\20240901153604_initial.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Migrations\\20240901153604_initial.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Migrations\\20240901153604_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:14:27.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20241126144606_AddAddressFields.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Migrations\\20241126144606_AddAddressFields.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Migrations\\20241126144606_AddAddressFields.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Migrations\\20241126144606_AddAddressFields.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Migrations\\20241126144606_AddAddressFields.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:46:08.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAB8CAAAAAAAAAAAAADsCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:14:31.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:07:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:04:50.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Implementations\\OrderRepository.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Implementations\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:08:38.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:45:21.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Implementations\\CartRepository.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Implementations\\CartRepository.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Implementations\\CartRepository.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Implementations\\CartRepository.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:08:40.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "PizzaHub.Repositories\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:15:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "SeedData.sql",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\SQLScripts\\SeedData.sql",
+              "RelativeDocumentMoniker": "PizzaHub.Repositories\\SQLScripts\\SeedData.sql",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Repositories\\SQLScripts\\SeedData.sql",
+              "RelativeToolTip": "PizzaHub.Repositories\\SQLScripts\\SeedData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-01T01:42:08.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "jquery.js",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "PizzaHub.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "PizzaHub.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAGQXAAAAAAAAAEAtwF0XAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T16:03:10.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "PizzaHub.Entities.csproj",
+              "DocumentMoniker": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\PizzaHub.Entities.csproj",
+              "RelativeDocumentMoniker": "PizzaHub.Entities\\PizzaHub.Entities.csproj",
+              "ToolTip": "D:\\MVCPractice\\Saram\\PizzaHub\\PizzaHub.Entities\\PizzaHub.Entities.csproj",
+              "RelativeToolTip": "PizzaHub.Entities\\PizzaHub.Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T12:17:26.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

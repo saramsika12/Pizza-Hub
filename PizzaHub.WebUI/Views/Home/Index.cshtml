@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_PublicLayout";
+}
+
+@* <div class="hero-section">
+    <div class="container hero-content">
+        <div class="row">
+            <div class="col-sm-8 text-white" style="width:100%">
+                <div class="pt-5 pb-5">
+                    <h1>Pizza Hub's Online Ordering</h1>
+                    <p class="pb-4">
+                        Yummy pizza delivered fast at your door step!
+                    </p>
+                    <p>
+                        <a href="#pizzaList" class="btn btn-success">ORDER ONLINE NOW</a>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4 pt-4">
+                <img src="~/images/pizza-header.png" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="pizza-list-section" id="pizzaList">
+    <div class="container pb-4">
+        <div class="row pt-4">
+            <h2 class="col-sm-12 mb-4" id="heading">Pizza, Dessert, Beverages</h2>
+        </div>
+        <div class="row d-flex flex-wrap">
+            @foreach (var item in Model)
+            {
+                <div class="col-sm-4 pb-4 d-flex">
+                    <div class="card box-shadow w-100">
+                        <img class="card-img-top" src="@item.ImageUrl" alt="image" style="width:100%">
+                        <div class="card-body d-flex flex-column">
+                            <h4 class="card-title">
+                                @item.Name
+                                <span class="float-right font-20">Rs @item.UnitPrice.ToString("N2")</span>
+                            </h4>
+                            <p class="card-text">@item.Description</p>
+                            <p>
+                                <span class="pt-1 d-inline-block"> Size: Regular</span>
+                                <span class="float-right font-20">
+                                    <a class="btn btn-primary" href="javascript:void(0)" onclick="AddToCart('@item.Id','@item.Name','@item.UnitPrice',1)">
+                                        Add To Cart
+                                    </a>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div> *@
+
+<div style="background:gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 text-white" style="width:100%">
+                <div class="pt-5 pb-5">
+                    <h1>Pizza Hub's Online Ordering</h1>
+                    <p class="pb-4">
+                        Yummy pizza delivered fast at your door step!
+                    </p>
+                    <p>
+                        <a href="#heading" class="btn btn-success">ORDER 
+                            ONLINE NOW</a>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4 pt-4">
+				<img src="~/images/pizza header.png" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@await Component.InvokeAsync("PizzaMenu")

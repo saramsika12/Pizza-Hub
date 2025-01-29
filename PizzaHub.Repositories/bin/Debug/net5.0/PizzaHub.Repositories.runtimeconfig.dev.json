@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HELIOS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HELIOS\\.nuget\\packages"
+    ]
+  }
+}

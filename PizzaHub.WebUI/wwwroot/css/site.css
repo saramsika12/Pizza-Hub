@@ -1,0 +1,274 @@
+﻿#toastCart {
+    bottom: 0;
+    right: 0;
+    z-index: 100;
+    position: fixed;
+    transition: all 0.3s ease-in-out;
+    visibility: hidden;
+}
+
+    #toastCart.show {
+        visibility: visible;
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+.toast {
+    transition: opacity 0.3s ease;
+}
+
+.noti_Counter {
+    background-color: #ec5252;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.43;
+    margin: -6px 0 0 5px;
+    padding: 0 7px;
+    top: -10px;
+    right: -10px;
+    position: absolute;
+    white-space: nowrap;
+    z-index: 10;
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    padding: 0 !important;
+    word-break: break-all;
+}
+
+ /*Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+    .btn-primary:hover {
+        background-color: #155a8a;
+        border-color: #155a8a;
+    }
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+
+/* Footer styles */
+footer {
+    background-color: #222e3a;
+    color: #e6e4e4;
+    padding: 20px 0;
+    width: 100%;
+    text-align:center;
+    
+}
+
+    footer a {
+        color: #a5c7ec;
+        transition: color 0.3s ease;
+    }
+
+        footer a:visited {
+            color: #a5c7ec;
+        }
+
+        footer a:hover {
+            color: #1b6ec2;
+            text-decoration: underline;
+        }
+
+@media (max-width: 768px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .col-sm-4 {
+        flex: 1 0 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .navbar-collapse {
+        margin-top: 10px;
+    }
+}
+
+
+    footer{
+        position: absolute;
+        bottom: 0;
+              
+    }
+}
+
+.card {
+    transition: all 0.3s ease;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    }
+
+.card-img-top {
+    transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.1);
+}
+
+.nav-link {
+    transition: color 0.3s ease;
+}
+
+    .nav-link:hover {
+        color: #1b6ec2;
+        text-decoration: underline;
+    }
+
+.card-img-top {
+    transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+/*/* Hero Section (Red Background) */
+/*.hero-section {
+    background-color: #e60000; 
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-content p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}*/
+
+/* Pizza List Section */
+/*.pizza-list-section {
+    opacity: 0; 
+    transition: opacity 1s ease-in-out; 
+}*/
+
+    /* When the pizza list section is in view, it will fade in */
+   /* .pizza-list-section.visible {
+        opacity: 1;
+    }*/
+
+/* Card styles for Pizza items */
+/*.card {
+    transition: transform 0.3s ease;
+}
+
+    .card:hover {
+        transform: scale(1.05); 
+    }
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}*/
+
+/* Button styles */
+/*.btn-primary {
+    background-color: #ff4b4b;*/ /* Red button */
+    /*border-color: #ff0000;*/ /* Border matching button color */
+    /*color: white;
+}
+
+    .btn-primary:hover {
+        background-color: #d43838;*/ /* Darker red on hover */
+        /*border-color: #b82e2e;
+    }*/
+
+/* Scroll behavior */
+/*html, body {
+    scroll-behavior: smooth;
+}*/
+
+/* Sticky footer styles */
+/*footer {
+    background-color: #222e3a;
+    color: #e6e4e4;
+    padding: 2px 0;
+    width: 100%;
+}*/
+
+    /* Footer styles */
+    /*footer a, footer a:visited {
+        color: #a5c7ec;
+    }*/
+
+    /* Footer content layout */
+    /*footer .container {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }*/
+
+/* Increase space at the bottom of body content on larger screens */
+/*@media (min-width: 768px) {
+    body {
+        margin-bottom: 250px;*/ /* Ensure content doesn't overlap with the footer */
+    /*}
+
+    footer {
+        position: absolute;
+        bottom: 0;
+    }
+}*/

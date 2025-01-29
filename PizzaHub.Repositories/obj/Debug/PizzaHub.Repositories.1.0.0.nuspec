@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PizzaHub.Repositories</id>
+    <version>1.0.0</version>
+    <authors>PizzaHub.Repositories</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="PizzaHub.Entities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="5.0.17" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.17" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\MVCPractice\Saram\PizzaHub\PizzaHub.Repositories\bin\Debug\net5.0\PizzaHub.Repositories.runtimeconfig.json" target="lib\net5.0\PizzaHub.Repositories.runtimeconfig.json" />
+    <file src="D:\MVCPractice\Saram\PizzaHub\PizzaHub.Repositories\bin\Debug\net5.0\PizzaHub.Repositories.dll" target="lib\net5.0\PizzaHub.Repositories.dll" />
+  </files>
+</package>

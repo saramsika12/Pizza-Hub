@@ -1,0 +1,17 @@
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\bin\Debug\net5.0\PizzaHub.Services.deps.json
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\bin\Debug\net5.0\PizzaHub.Services.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\bin\Debug\net5.0\PizzaHub.Services.pdb
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\bin\Debug\net5.0\PizzaHub.Entities.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\bin\Debug\net5.0\PizzaHub.Repositories.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\bin\Debug\net5.0\PizzaHub.Repositories.pdb
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\bin\Debug\net5.0\PizzaHub.Entities.pdb
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.Services.csproj.AssemblyReference.cache
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.Services.AssemblyInfoInputs.cache
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.Services.AssemblyInfo.cs
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.Services.csproj.CoreCompileInputs.cache
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.85A1EE31.Up2Date
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.Services.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\refint\PizzaHub.Services.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\PizzaHub.Services.pdb
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Services\obj\Debug\net5.0\ref\PizzaHub.Services.dll

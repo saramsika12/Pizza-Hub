@@ -1,0 +1,12 @@
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\bin\Debug\net5.0\PizzaHub.Entities.deps.json
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\bin\Debug\net5.0\PizzaHub.Entities.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\bin\Debug\net5.0\PizzaHub.Entities.pdb
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\PizzaHub.Entities.csproj.AssemblyReference.cache
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\PizzaHub.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\PizzaHub.Entities.AssemblyInfoInputs.cache
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\PizzaHub.Entities.AssemblyInfo.cs
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\PizzaHub.Entities.csproj.CoreCompileInputs.cache
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\PizzaHub.Entities.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\refint\PizzaHub.Entities.dll
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\PizzaHub.Entities.pdb
+D:\MVCPractice\Saram\PizzaHub\PizzaHub.Entities\obj\Debug\net5.0\ref\PizzaHub.Entities.dll
